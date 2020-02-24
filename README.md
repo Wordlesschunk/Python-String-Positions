@@ -1,8 +1,6 @@
 # Python-String-Positions
-This code asks the user for a string, and then displays the odd and even positions of the string they entere. 
-For example if a user was to enter the word: "Hamburger" the program would display the positions of this word
-Odd Positions: H m u g r
-Even Positions: abre
+# About
+A simple script that takes a string and then displays the odd and even positions. 
 
 ```
 def separate_string(sentence):
@@ -26,3 +24,5 @@ def separate_string(sentence):
     
 separate_string("Hamburger")
 ```
+# Input
+To change the input of the function edit the separate_string(``"Hamburger"``)
