@@ -1,4 +1,4 @@
-# Python-String-Positions
+# Python-String-Positions (Odd & Even)
 # About
 A simple script that takes a string and then displays the odd and even positions. 
 
